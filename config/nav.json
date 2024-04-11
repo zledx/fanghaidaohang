@@ -6,10 +6,7 @@
 		"tab_list": [
 			{
 				"tab_name": "新闻热点",
-				"upper_right_corner": {
-					"title": "热榜资讯汇总>>>",
-					"url": "https://www.fre123.com/news"
-				},
+				
 				"details": [
 					{
 						"title": "FRE123 新闻热榜",
