@@ -88,31 +88,5 @@
 			}
 		]
 	},
-	"footer": {
-		"right": {
-			"is_show": true,
-			"list": [
-				{
-					"icon_class": "fas fa-comment-dots",
-					"icon_size": 20,
-					"url": "https://github.com/fre123-com"
-				},
-				{
-					"icon_class": "fab fa-telegram-plane",
-					"icon_size": 20,
-					"url": "https://t.me/howie_weekly"
-				},
-				{
-					"icon_class": "fas fa-blog",
-					"icon_size": 20,
-					"url": "https://www.fre123.com/weekly"
-				},
-				{
-					"icon_class": "fas fa-qrcode",
-					"icon_size": 20,
-					"url": "https://cdn.jsdelivr.net/gh/howie6879/weekly/src/statics/wechat.jpeg"
-				}
-			]
-		}
-	}
+	
 }
