@@ -1213,11 +1213,11 @@
 						"is_show": true
 					},
 					{
-						"title": "FRE123 技术热榜",
-						"ori_url": "https://www.fre123.com/tech",
-						"url": "https://www.fre123.com/tech",
-						"icon": "https://img.fre123.com/i/2024/01/18/65a819ea7d80f.jpg",
-						"description": "FRE123 技术热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
+						"title": "m3u8下载",
+						"ori_url": "https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html",
+						"url": "https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html",
+						"icon": "https://toolb.cn/favicon/blog.luckly-mjw.cn",
+						"description": "m3u8 下载工具,无需下载软件,打开网站即可下载,自动检测,一键下载",
 						"suffix": false,
 						"is_show": true
 					},
