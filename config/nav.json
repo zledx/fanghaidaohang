@@ -191,10 +191,7 @@
 				]
 			},
 			{
-				"upper_right_corner": {
-					"title": "技术资讯汇总>>>",
-					"url": "https://www.fre123.com/tech"
-				},
+				
 				"tab_name": "技术资讯",
 				"details": [
 					{
@@ -335,10 +332,7 @@
 				]
 			},
 			{
-				"upper_right_corner": {
-					"title": "精选周刊大全>>>",
-					"url": "https://www.fre123.com/weekly"
-				},
+				
 				"tab_name": "技术周刊",
 				"details": [
 					{
