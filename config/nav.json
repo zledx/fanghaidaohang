@@ -1208,8 +1208,7 @@
 						"ori_url": "https://superparse.com/",
 						"url": "https://superparse.com/",
 						"icon": "https://toolb.cn/favicon/superparse.com",
-						"description": "在线解析并下载视频,支持YouTube, Instagram, Facebook, Twitter 等
-						",
+						"description": "在线解析并下载视频,支持YouTube, Instagram, Facebook, Twitter 等",
 						"suffix": false,
 						"is_show": true
 					},
