@@ -6,7 +6,7 @@
 				<span
 					>Powered by
 					<a
-						href="https://ip150.top"
+						href="https://fanghai.site"
 						target="_blank"
 						class="decoration-transparent text-[#000]"
 						>FANGHAI</a
