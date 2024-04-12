@@ -139,9 +139,7 @@
 				]
 			},
 			{
-				"upper_right_corner": {
-					
-				},
+				
 				"tab_name": "图片",
 				"details": [
 					{
@@ -163,11 +161,11 @@
 						"is_show": true
 					},
 					{
-						"title": "Stack Overflow",
-						"ori_url": "https://stackoverflow.com/",
-						"url": "https://www.fre123.com/tech/stackoverflow",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773ed583ad3.png",
-						"description": "开发者问答社区，解决编程难题",
+						"title": "图片去水印",
+						"ori_url": "https://www.watermarkremover.io/zh/",
+						"url": "https://www.watermarkremover.io/zh",
+						"icon": "https://toolb.cn/favicon/www.watermarkremover.io",
+						"description": "使用我们的人工智能技术从您的图像中删除水印。使用我们的水印删除工具，让您的图像免费水印。",
 						"suffix": false,
 						"is_show": true
 					},
