@@ -5,8 +5,7 @@
 			<div class="text-[14px] h-[30px]">
 				<span
 					>© 2024 
-					<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id:"3I4zYs7ZEPySWup4",ck:"3I4zYs7ZEPySWup4"})</script>
+					
 					<a
 						href="https://fanghai.site"
 						target="_blank"
@@ -15,6 +14,8 @@
 					>
 					
 				</span>
+				<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"3I4zYs7ZEPySWup4",ck:"3I4zYs7ZEPySWup4"})</script>
 			</div>
 			<!-- Left -->
 
