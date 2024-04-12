@@ -197,86 +197,41 @@
 						"is_show": true
 					},
 					{
-						"title": "博客园",
-						"ori_url": "https://www.cnblogs.com/aggsite/topviews",
-						"url": "https://www.fre123.com/tech/cnblogs_topviews",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773305be49d.png",
-						"description": "程序员社区，知识交流平台",
+						"title": "证件照换底色",
+						"ori_url": "https://id-photo.cn/color/",
+						"url": "https://id-photo.cn/color/",
+						"icon": "https://toolb.cn/favicon/id-photo.cn",
+						"description": "证件照换底色工具支持一键更换证件照的背景颜色，方便智能，提供已抠图PNG格式证件照方便后期自行合成更换底色。",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "CSDN",
-						"ori_url": "https://blog.csdn.net/rank/list",
-						"url": "https://www.fre123.com/tech/csdnnews",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773339badda.png",
-						"description": "IT技术社区，知识传播平台",
+						"title": "证件照生成",
+						"ori_url": "https://tool.browser.qq.com/id_photo.html",
+						"url": "https://tool.browser.qq.com/id_photo.html",
+						"icon": "https://toolb.cn/favicon/tool.browser.qq.com",
+						"description": "快速生成高质量证件照的工具",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "开源中国",
-						"ori_url": "https://www.oschina.net/news",
-						"url": "https://www.fre123.com/tech/oschina_news",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773357604e7.png",
-						"description": "开源技术社区，共享创新精神",
+						"title": "图片压缩",
+						"ori_url": "https://compressjpeg.com/",
+						"url": "https://compressjpeg.com/",
+						"icon": "https://toolb.cn/favicon/compressjpeg.com",
+						"description": "Compress JPEG images and photos for displaying on web pages, sharing on social networks or sending by email.",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "Segmentfault",
-						"ori_url": "https://segmentfault.com/news",
-						"url": "https://www.fre123.com/tech/segmentfault_news",
-						"icon": "https://img.fre123.com/i/2023/12/12/6577354f59e5d.png",
-						"description": "开发者问答社区，解决问题互助",
+						"title": "GIF裁剪合成工具",
+						"ori_url": "https://www.tutieshi.com/",
+						"url": "https://www.tutieshi.com/",
+						"icon": "https://toolb.cn/favicon/www.tutieshi.com",
+						"description": "在线图片压缩尺寸大小和视频转gif在线制作工具",
 						"suffix": false,
 						"is_show": true
-					},
-					{
-						"title": "InfoQ",
-						"ori_url": "https://www.infoq.cn/",
-						"url": "https://www.fre123.com/tech/infoq",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773588b7b52.png",
-						"description": "技术资讯平台，深度洞察行业动态",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "机器之心",
-						"ori_url": "https://www.jiqizhixin.com/",
-						"url": "https://www.fre123.com/tech/jiqizhixin",
-						"icon": "https://img.fre123.com/i/2023/12/12/657741a779223.png",
-						"description": "人工智能科技媒体，探索智能世界",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "量子位",
-						"ori_url": "https://www.qbitai.com/category/%e8%b5%84%e8%ae%af",
-						"url": "https://www.fre123.com/tech/qbitai",
-						"icon": "https://img.fre123.com/i/2023/12/12/6577368408291.png",
-						"description": "科技资讯平台，前沿科技动态解读",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "湾区日报",
-						"ori_url": "https://www.wanqu.co/",
-						"url": "https://www.fre123.com/tech/wanqu",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773eb7cded4.png",
-						"description": "科技创新资讯，关注湾区科技动态",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "小众软件",
-						"ori_url": "https://www.appinn.com/",
-						"url": "https://www.fre123.com/tech/appinn",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773dd163b37.jpeg",
-						"description": "探索独特应用，发现小众精品软件",
-						"suffix": false,
-						"is_show": true
-					}
+					}																			
 				]
 			},
 			{
