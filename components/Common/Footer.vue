@@ -35,8 +35,7 @@
 		</section>
 		
 	</footer>
-	<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id:"3I4zYs7ZEPySWup4",ck:"3I4zYs7ZEPySWup4"})</script>
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js?id=3I4zYs7ZEPySWup4&ck=3I4zYs7ZEPySWup4"></script>
 </template>
 
 <script setup lang="ts">
