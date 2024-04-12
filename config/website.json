@@ -37,22 +37,9 @@
 		"right": {
 			"is_show": true,
 			"group": {
-				"name": "热点榜单",
-				"url": "https://www.fre123.com/news",
-				"children": [
-					{
-						"name": "新闻热榜",
-						"url": "https://www.fre123.com/news"
-					},
-					{
-						"name": "技术热榜",
-						"url": "https://www.fre123.com/tech"
-					},
-					{
-						"name": "技术周刊",
-						"url": "https://www.fre123.com/weekly"
-					}
-				]
+				
+				
+				
 			}
 		}
 	},
