@@ -1,14 +1,13 @@
 [
 	{
-		"group_name": "新闻资讯",
+		"group_name": "实用工具",
 		"style": 1,
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "新闻热点",
+				"tab_name": "解析下载",
 				"upper_right_corner": {
-					"title": "热榜资讯汇总>>>",
-					"url": "https://www.fre123.com/news"
+					
 				},
 				"details": [
 					{
