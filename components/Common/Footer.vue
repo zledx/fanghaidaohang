@@ -35,9 +35,10 @@
 		</section>
 		
 	</footer>
-</template>
-<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+	<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
 <script>LA.init({id:"3I4zYs7ZEPySWup4",ck:"3I4zYs7ZEPySWup4"})</script>
+</template>
+
 <script setup lang="ts">
 import { CONFIG_KEY_FOOTER, getConfigItem } from '~/stores/config'
 
