@@ -50,8 +50,8 @@
 				"icon_class": "fab fa-weixin",
 				"icon_size": 20,
 				"icon_color": "#00b140",
-				"icon_hover_color": "#008733",
-				"text": "联系我（备注来意）",
+				"icon_hover_color": "#000000",
+				"text": "（备注来意）",
 				"img": "https://s21.ax1x.com/2024/04/12/pFjMTQf.png",
 				"url": ""
 			}
