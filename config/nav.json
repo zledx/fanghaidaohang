@@ -1324,6 +1324,60 @@
 						"description": "在线短视频去水印解析",
 						"suffix": false,
 						"is_show": true
+					},
+					{
+						"title": "哔哩哔哩",
+						"ori_url": "https://www.bilibili.com/v/popular/all/",
+						"url": "https://www.fre123.com/news/bilibili",
+						"icon": "https://img.fre123.com/i/2023/12/06/656f51c78c7db.png",
+						"description": "弹幕视频，二次元文化",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "36氪",
+						"ori_url": "https://36kr.com/",
+						"url": "https://www.fre123.com/news/36kr",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f27b9ecfcb.png",
+						"description": "创业与科技新闻，洞察商业价值",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "爱范儿",
+						"ori_url": "https://www.ifanr.com/",
+						"url": "https://www.fre123.com/news/ifanr",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f28335cfd0.png",
+						"description": "科技与数码生活，热爱创新",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "IT之家",
+						"ori_url": "https://www.ithome.com/list/",
+						"url": "https://www.fre123.com/news/ithome",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f2746dca0f.png",
+						"description": "科技新闻与评测专家",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "澎湃新闻",
+						"ori_url": "https://www.thepaper.cn/",
+						"url": "https://www.fre123.com/news/thepaper",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f27acb144c.png",
+						"description": "独立、深度、观点",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "虎嗅资讯",
+						"ori_url": "https://www.huxiu.com/article/",
+						"url": "https://www.fre123.com/news/huxiu",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f277d17855.png",
+						"description": "商业观察与创新洞察",
+						"suffix": false,
+						"is_show": true
 					}
 					
 				]
