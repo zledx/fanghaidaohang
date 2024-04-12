@@ -235,134 +235,50 @@
 				]
 			},
 			{
-				"upper_right_corner": {
-					"title": "精选周刊大全>>>",
-					"url": "https://www.fre123.com/weekly"
-				},
-				"tab_name": "技术周刊",
+				
+				"tab_name": "常用站点",
 				"details": [
 					{
-						"title": "阮一峰的周刊",
-						"url": "https://www.fre123.com/weekly/ruanyifeng_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/07/6570a316b2e86.jpeg",
-						"description": "这里记录每周值得分享的科技内容，周五发布",
+						"title": "马克配音",
+						"url": "https://ttsmaker.cn/",
+						"icon": "https://toolb.cn/favicon/ttsmaker.cn",
+						"description": "免费的AI配音平台",
 						"suffix": true,
 						"is_show": true
 					},
 					{
-						"title": "老胡的信息周刊",
-						"url": "https://www.fre123.com/weekly/howie6879_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/07/6570a33fcae2f.jpeg",
-						"description": "记录老胡每周看到的优质资源，包含项目、软件、资料、网站",
+						"title": "AIchatOS",
+						"url": "https://chat18.aichatos.xyz/",
+						"icon": "https://s21.ax1x.com/2024/04/12/pFjQKOO.png",
+						"description": "免费GPT3.5",
 						"suffix": true,
 						"is_show": true
 					},
 					{
-						"title": "HelloGitHub",
-						"url": "https://www.fre123.com/weekly/hellogithub",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f22c38002e.png",
-						"description": "「HelloGitHub 月刊」分享 GitHub 上有趣、入门级的开源项目，每月 28 号发布最新一期",
+						"title": "iconfont",
+						"url": "https://www.iconfont.cn/",
+						"icon": "https://toolb.cn/favicon/www.iconfont.cn",
+						"description": "国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
 						"suffix": true,
 						"is_show": true
 					},
 					{
-						"title": "独立开发变现周刊",
-						"url": "https://www.fre123.com/weekly/ezindie",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f421fa8770.png",
-						"description": "独立开发变现相关的技术、工具、交流等，彼此促进成长，快速落地各自的产品，实现持续盈利",
+						"title": "Emoji大全",
+						"url": "https://www.emojiall.com/zh-hans",
+						"icon": "https://toolb.cn/favicon/www.emojiall.com",
+						"description": "该网站提供了最新、完整的Emoji搜索和相关信息，包括表情符号含义、使用示例、Unicode代码点、高分辨率图片、复制和粘贴，以及Emoji大数据排名、矢量图形和动态图表、智能算法情感分析和表情符号语言学研究。",
 						"suffix": true,
 						"is_show": true
 					},
 					{
-						"title": "二丫讲梵",
-						"url": "https://www.fre123.com/weekly/eryajf",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f225463402.png",
-						"description": "周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "AIGC Weekly",
-						"url": "https://www.fre123.com/weekly/aigc_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f1e30d4262.ico",
-						"description": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "小棉袄的百味人生",
-						"url": "https://www.fre123.com/weekly/haikuoshijie",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f25ba8b44f.png",
-						"description": "小棉袄的博客，嗅觉浏览器、海阔视界开发者的博客",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "不死鸟月刊分享",
-						"url": "https://www.fre123.com/weekly/businiaofenxiang",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f21aa7baaf.png",
-						"description": "分享为王",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "1Link.Fun",
-						"url": "https://www.fre123.com/weekly/1link_fun",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f20f645b6e.png",
-						"description": "1Link.Fun 科技周刊，每周更新 10 条有趣的链接",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Go语言爱好者周刊",
-						"url": "https://www.fre123.com/weekly/studygolang",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f227ae1a30.png",
-						"description": "记录每周值得分享的 Go 语言相关内容，周日发布",
-						"suffix": true,
-						"is_show": true
-					},
-
-					{
-						"title": "破茧日报",
-						"url": "https://www.fre123.com/weekly/guozh",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2385d1ec1.jpeg",
-						"description": "破茧日报，老郭种树",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "老司机 iOS 周报",
-						"url": "https://www.fre123.com/weekly/lao_si_ji_ios_zhou_kan",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f228744f01.png",
-						"description": "对于 iOS 开发者有价值的信息",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "MDH 前端周刊",
-						"url": "https://www.fre123.com/weekly/mdh_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f234394894.png",
-						"description": "前端技术周刊",
-						"suffix": true,
-						"is_show": true
-					},
-
-					{
-						"title": "Python 潮流周刊",
-						"url": "https://www.fre123.com/weekly/pythoncat_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f23ae79f38.png",
-						"description": "Python技术周刊",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "Web 技术周刊",
-						"url": "https://www.fre123.com/weekly/fe_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2543dff40.png",
-						"description": "汇总平时看到的好文章，前端技术 & 产品研发为主",
+						"title": "阿里云服务器",
+						"url": "https://www.aliyun.com/",
+						"icon": "https://toolb.cn/favicon/www.aliyun.com",
+						"description": "为了无法计算的价值",
 						"suffix": true,
 						"is_show": true
 					}
+
 				]
 			}
 		]
