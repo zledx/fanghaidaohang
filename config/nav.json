@@ -140,26 +140,25 @@
 			},
 			{
 				"upper_right_corner": {
-					"title": "技术资讯汇总>>>",
-					"url": "https://www.fre123.com/tech"
+					
 				},
-				"tab_name": "技术资讯",
+				"tab_name": "图片",
 				"details": [
 					{
-						"title": "Hacker News",
-						"ori_url": "https://news.ycombinator.com/",
-						"url": "https://www.fre123.com/tech/ycombinator",
-						"icon": "https://img.fre123.com/i/2023/12/12/657738fb0da11.png",
-						"description": "程序员和创业者的热门新闻网站",
+						"title": "蒸 気 機",
+						"ori_url": "https://magiconch.com/vaporwave/",
+						"url": "https://magiconch.com/vaporwave/",
+						"icon": "https://toolb.cn/favicon/magiconch.com",
+						"description": "蒸汽波图片生成器",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "Github",
-						"ori_url": "https://github.com/trending",
-						"url": "https://www.fre123.com/tech/github_trending",
-						"icon": "https://img.fre123.com/i/2023/12/12/65773615a03a5.png",
-						"description": "全球最大的代码托管平台，共享开源项目",
+						"title": "电子包浆",
+						"ori_url": "https://magiconch.com/patina/",
+						"url": "https://magiconch.com/patina/",
+						"icon": "https://toolb.cn/favicon/magiconch.com",
+						"description": "图片包浆绿化器",
 						"suffix": false,
 						"is_show": true
 					},
