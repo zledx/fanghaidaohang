@@ -552,11 +552,7 @@
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "番剧资源",
-				"upper_right_corner": {
-					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
-				},
+				
 				"details": [
 					{
 						"title": "FRE123 动漫搜索引擎",
@@ -1328,7 +1324,7 @@
 						"description": "在线短视频去水印解析",
 						"suffix": false,
 						"is_show": true
-					},
+					}
 					
 				]
 			},
