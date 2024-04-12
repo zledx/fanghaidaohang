@@ -1231,11 +1231,11 @@
 						"is_show": true
 					},
 					{
-						"title": "微博热搜",
-						"ori_url": "https://s.weibo.com/top/summary",
-						"url": "https://www.fre123.com/news/weibo",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
-						"description": "与世界分享你的瞬间 ",
+						"title": "去水印",
+						"ori_url": "https://shejishow.cn/remove/",
+						"url": "https://shejishow.cn/remove/",
+						"icon": "https://s21.ax1x.com/2024/04/12/pFXInW4.png",
+						"description": "全网免费去水印 ",
 						"suffix": false,
 						"is_show": true
 					},
