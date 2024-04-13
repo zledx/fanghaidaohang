@@ -1466,6 +1466,290 @@
 		]
 	},
 	{
+		"group_name": "资源站点",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "资源分享",
+				"upper_right_corner": {
+					
+				},
+				"details": [
+					{
+						"title": "视频解析",
+						"ori_url": "https://superparse.com/",
+						"url": "https://superparse.com/",
+						"icon": "https://toolb.cn/favicon/superparse.com",
+						"description": "在线解析并下载视频,支持YouTube, Instagram, Facebook, Twitter 等",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "m3u8下载",
+						"ori_url": "https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html",
+						"url": "https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html",
+						"icon": "https://toolb.cn/favicon/blog.luckly-mjw.cn",
+						"description": "m3u8 下载工具,无需下载软件,打开网站即可下载,自动检测,一键下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "抖音去水印",
+						"ori_url": "https://6li6.com/douyin#/",
+						"url": "https://6li6.com/douyin#/",
+						"icon": "https://toolb.cn/favicon/6li6.com",
+						"description": "免费去水印",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "去水印",
+						"ori_url": "https://shejishow.cn/remove/",
+						"url": "https://shejishow.cn/remove/",
+						"icon": "https://s21.ax1x.com/2024/04/12/pFXInW4.png",
+						"description": "全网免费去水印 ",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "下载器",
+						"ori_url": "https://aixdownloader.com/",
+						"url": "https://aixdownloader.com/",
+						"icon": "https://toolb.cn/favicon/aixdownloader.com",
+						"description": "从任何网页下载你想要的内容",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "HQ ICON",
+						"ori_url": "https://icon.yukonga.top/",
+						"url": "https://icon.yukonga.top/",
+						"icon": "https://toolb.cn/favicon/icon.yukonga.top",
+						"description": "从 App Store 获取高清应用图标",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "B站视频下载",
+						"ori_url": "https://zhouql.vip/bilibili/",
+						"url": "https://zhouql.vip/bilibili/",
+						"icon": "https://s21.ax1x.com/2024/04/12/pFXInW4.png",
+						"description": "B站视频下载工具",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "TikTok",
+						"ori_url": "https://www.hellotik.app/zh/tt",
+						"url": "https://www.hellotik.app/zh/tt",
+						"icon": "https://s21.ax1x.com/2024/04/12/pFXInW4.png",
+						"description": "视频无水印下载，视频高质量下载",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "歌曲宝",
+						"ori_url": "https://www.gequbao.com/",
+						"url": "https://www.gequbao.com/",
+						"icon": "https://toolb.cn/favicon/www.gequbao.com",
+						"description": "可以在线免费下载全网MP3付费歌曲、流行音乐、经典老歌等。曲库完整,更新迅速，试听流畅，支持高品质|无损音质",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "小视频下载",
+						"ori_url": "http://www.downfi.com/video/",
+						"url": "http://www.downfi.com/video/",
+						"icon": "https://toolb.cn/favicon/www.downfi.com",
+						"description": "优酷 腾讯视频 iqiyi 爱奇艺 搜狐 视频 下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "唧唧",
+						"ori_url": "https://www.jijidown.com/",
+						"url": "https://www.jijidown.com/",
+						"icon": "https://toolb.cn/favicon/www.jijidown.com",
+						"description": "B站视频下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "SaveFrom.net",
+						"ori_url": "https://zh.savefrom.net/226/",
+						"url": "https://zh.savefrom.net/226/",
+						"icon": "https://toolb.cn/favicon/zh.savefrom.net",
+						"description": "免费在线视频下载器",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "贝贝",
+						"ori_url": "https://xbeibeix.com/api/bilibili/",
+						"url": "https://xbeibeix.com/api/bilibili/",
+						"icon": "https://toolb.cn/favicon/xbeibeix.com",
+						"description": "B站视频下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "蜜蜂去水印",
+						"ori_url": "https://video.ciding.cc/",
+						"url": "https://video.ciding.cc/",
+						"icon": "https://toolb.cn/favicon/video.ciding.cc",
+						"description": "在线短视频去水印解析",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				
+				"tab_name": "资源下载",
+				"details": [
+					{
+						"title": "蒸 気 機",
+						"ori_url": "https://magiconch.com/vaporwave/",
+						"url": "https://magiconch.com/vaporwave/",
+						"icon": "https://toolb.cn/favicon/magiconch.com",
+						"description": "蒸汽波图片生成器",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "电子包浆",
+						"ori_url": "https://magiconch.com/patina/",
+						"url": "https://magiconch.com/patina/",
+						"icon": "https://toolb.cn/favicon/magiconch.com",
+						"description": "图片包浆绿化器",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "图片去水印",
+						"ori_url": "https://www.watermarkremover.io/zh/",
+						"url": "https://www.watermarkremover.io/zh",
+						"icon": "https://toolb.cn/favicon/www.watermarkremover.io",
+						"description": "使用我们的人工智能技术从您的图像中删除水印。使用我们的水印删除工具，让您的图像免费水印。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Logoly.Pro",
+						"ori_url": "https://www.logoly.pro/#/",
+						"url": "https://www.logoly.pro/#/",
+						"icon": "https://toolb.cn/favicon/www.logoly.pro",
+						"description": "p站图标生成",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "路过图床",
+						"ori_url": "https://imgse.com/",
+						"url": "https://imgse.com/",
+						"icon": "https://toolb.cn/favicon/imgse.com",
+						"description": "免费公共图床",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "在线抠图",
+						"ori_url": "https://www.remove.bg/zh",
+						"url": "https://www.remove.bg/zh",
+						"icon": "https://toolb.cn/favicon/www.remove.bg",
+						"description": "在线抠图软件轻松实现一键抠图",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "证件照换底色",
+						"ori_url": "https://id-photo.cn/color/",
+						"url": "https://id-photo.cn/color/",
+						"icon": "https://toolb.cn/favicon/id-photo.cn",
+						"description": "证件照换底色工具支持一键更换证件照的背景颜色，方便智能，提供已抠图PNG格式证件照方便后期自行合成更换底色。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "证件照生成",
+						"ori_url": "https://tool.browser.qq.com/id_photo.html",
+						"url": "https://tool.browser.qq.com/id_photo.html",
+						"icon": "https://toolb.cn/favicon/tool.browser.qq.com",
+						"description": "快速生成高质量证件照的工具",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "图片压缩",
+						"ori_url": "https://compressjpeg.com/",
+						"url": "https://compressjpeg.com/",
+						"icon": "https://toolb.cn/favicon/compressjpeg.com",
+						"description": "Compress JPEG images and photos for displaying on web pages, sharing on social networks or sending by email.",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "GIF裁剪合成工具",
+						"ori_url": "https://www.tutieshi.com/",
+						"url": "https://www.tutieshi.com/",
+						"icon": "https://toolb.cn/favicon/www.tutieshi.com",
+						"description": "在线图片压缩尺寸大小和视频转gif在线制作工具",
+						"suffix": false,
+						"is_show": true
+					}																			
+				]
+			},
+			{
+				
+				"tab_name": "福利资源",
+				"details": [
+					{
+						"title": "马克配音",
+						"url": "https://ttsmaker.cn/",
+						"icon": "https://toolb.cn/favicon/ttsmaker.cn",
+						"description": "免费的AI配音平台",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "AIchatOS",
+						"url": "https://chat18.aichatos.xyz/",
+						"icon": "https://s21.ax1x.com/2024/04/12/pFjQKOO.png",
+						"description": "免费GPT3.5",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "iconfont",
+						"url": "https://www.iconfont.cn/",
+						"icon": "https://toolb.cn/favicon/www.iconfont.cn",
+						"description": "国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Emoji大全",
+						"url": "https://www.emojiall.com/zh-hans",
+						"icon": "https://toolb.cn/favicon/www.emojiall.com",
+						"description": "该网站提供了最新、完整的Emoji搜索和相关信息，包括表情符号含义、使用示例、Unicode代码点、高分辨率图片、复制和粘贴，以及Emoji大数据排名、矢量图形和动态图表、智能算法情感分析和表情符号语言学研究。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "阿里云服务器",
+						"url": "https://www.aliyun.com/",
+						"icon": "https://toolb.cn/favicon/www.aliyun.com",
+						"description": "为了无法计算的价值",
+						"suffix": true,
+						"is_show": true
+					}
+
+				]
+			}
+		]
+	},
+	{
 		"group_name": "书籍资源",
 		"style": 1,
 		"style_des": "书籍资源",
