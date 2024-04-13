@@ -3425,17 +3425,20 @@
 		]
 	},
 	{
-		"group_name": "千奇百怪",
+		"group_name": "友情链接",
 		"style": 1,
 		"style_des": "标准风格",
-			
-				
+		"tab_list": [
+			{
+				"tab_name": "友链①",
+				"upper_right_corner": {
+					
+				},
 				"details": [
 					{
 						"title": "扫大便",
 						"url": "https://poopsweeper-game.firebaseapp.com/",
-						"icon": "https://toolb.cn/favicon/poopsweeper-game.firebaseapp.com",
-						"description": "扫雷玩法",
+						
 						"suffix": true,
 						"is_show": true
 					},
@@ -3624,8 +3627,8 @@
 						"is_show": true
 					}
 				]
-			
+			}
 	
-		
+		]
 	}
 ]
