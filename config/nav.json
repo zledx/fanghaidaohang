@@ -3435,8 +3435,8 @@
 					{
 						"title": "扫大便",
 						"url": "https://poopsweeper-game.firebaseapp.com/",
-						
-						
+						"icon": "https://toolb.cn/favicon/poopsweeper-game.firebaseapp.com",
+						"description": "扫雷玩法",
 						"suffix": true,
 						"is_show": true
 					},
