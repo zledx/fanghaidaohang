@@ -1,7 +1,7 @@
 <template>
 	<footer class="text-left text-[#6c757d] p-6 bg-[rgba(248,249,250,1)] h-[70px]">
 		<section class="flex justify-center">
-			<!-- Left -->
+			<!-- Left --><p>友情链接：</p>
 			<div class="text-[14px] h-[30px]">
 				<span
 					>© 2024 
