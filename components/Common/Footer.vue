@@ -11,8 +11,7 @@
 						target="_blank"
 						class="decoration-transparent text-[#000]"
 						>FANGHAI</a
-					> 注：本站仅收录站点，站内信息真假请自辩，本站不承担任何责任（站点失效可联系我删除📫zledx@qq.com）
-					
+					> 注：本站仅收录站点，站内信息真假请自辩，本站不承担任何责任
 				</span>
 				
 			</div>
