@@ -11,7 +11,7 @@
 						target="_blank"
 						class="decoration-transparent text-[#000]"
 						>FANGHAI</a
-					> <p>注：本站仅收录站点，站内信息真假请自辩，本站不承担任何责任</p>
+					> <p>注：本站仅收录站点，站内信息真假请自辩，本站不承担任何责任(v:TeenzY-)</p>
 				</span>
 				
 			</div>
