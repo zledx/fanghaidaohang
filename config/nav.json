@@ -3278,7 +3278,7 @@
 					{
 						"title": "Life Restart",
 						"url": "https://liferestart.syaro.io/public/index.html",
-						"icon": "https://s21.ax1x.com/2024/04/13/pFjTSX9.png",
+						"icon": "https://api.iowen.cn/favicon/liferestart.syaro.io.png",
 						"description": "人生重开模拟器",
 						"suffix": true,
 						"is_show": true
@@ -3302,7 +3302,7 @@
 					{
 						"title": "极光",
 						"url": "https://www.drawaurora.com/",
-						"icon": "https://s21.ax1x.com/2024/04/13/pFjTSX9.png",
+						"icon": "https://api.iowen.cn/favicon/www.drawaurora.com.png",
 						"description": "极光模拟",
 						"suffix": true,
 						"is_show": true
@@ -3310,7 +3310,7 @@
 					{
 						"title": "头像制作",
 						"url": "https://neal.fun/life-stats/",
-						"icon": "https://s21.ax1x.com/2024/04/13/pFjTSX9.png",
+						"icon": "https://api.iowen.cn/favicon/neal.fun.png",
 						"description": "头像制作器",
 						"suffix": true,
 						"is_show": true
