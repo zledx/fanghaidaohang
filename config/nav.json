@@ -3420,6 +3420,83 @@
 						"is_show": true
 					}
 				]
+			},
+			{
+				"group_name": "友情链接",
+				"style": 1,
+				"style_des": "标准风格",
+				"tab_list": [
+					{
+						
+						"tab_name": "友链①",
+						"details": [
+							{
+								"title": "第一百度学术导航",
+								"url": "https://xn--2fkfulionedizhi-at-gmail-com-1r98b956ckrlrz88b.kdiyi.com/?zq",
+								
+								
+								"suffix": true,
+								"is_show": true
+							},
+							{
+								"title": "webtoon",
+								"url": "https://www.webtoon.xyz/",
+								"icon": "https://api.iowen.cn/favicon/www.webtoon.xyz.png",
+								"description": "成人漫画",
+								"suffix": true,
+								"is_show": true
+							},
+							{
+								"title": "ASMR盒子",
+								"url": "https://asmrbox.xyz/",
+								"icon": "https://toolb.cn/favicon/asmrbox.xyz",
+								"description": "免费海量高品质的ASMR视频音频资源。",
+								"suffix": true,
+								"is_show": true
+							},
+							{
+								"title": "随机小姐姐",
+								"url": "https://diskgirl.com/",
+								"icon": "https://toolb.cn/favicon/diskgirl.com",
+								"description": "随机播放小姐姐",
+								"suffix": true,
+								"is_show": true
+							},
+							{
+								"title": "ASMR助眠",
+								"url": "https://www.asmrpp.com/",
+								"icon": "https://toolb.cn/favicon/www.asmrpp.com",
+								"description": "ASMR视频音频分享网站",
+								"suffix": true,
+								"is_show": true
+							},
+							{
+								"title": "顶级国产",
+								"url": "https://qoqavideo4t.click/aovaov",
+								"icon": "https://toolb.cn/favicon/qoqavideo4t.click",
+								"description": "未成年止步",
+								"suffix": true,
+								"is_show": true
+							},
+							{
+								"title": "AV集市",
+								"url": "https://tmt.avjishi76.cc/go/?form=https://soupian.pro/#zaixianshipin",
+								"icon": "https://toolb.cn/favicon/tmt.avjishi76.cc",
+								"description": "未成年止步",
+								"suffix": true,
+								"is_show": true
+							},
+							{
+								"title": "唐诗宋词",
+								"url": "https://xn--ces6a.dizhi787.cc/12/%E5%90%91%E5%96%84/index.html",
+								"icon": "https://s21.ax1x.com/2024/04/13/pFjT2u9.png",
+								"description": "未成年止步",
+								"suffix": true,
+								"is_show": true
+							}
+						]
+					}
+				]
 			}
 	
 		]
