@@ -3428,12 +3428,8 @@
 		"group_name": "千奇百怪",
 		"style": 1,
 		"style_des": "标准风格",
-		"tab_list": [
-			{
+			
 				
-				"upper_right_corner": {
-					
-				},
 				"details": [
 					{
 						"title": "扫大便",
@@ -3628,8 +3624,8 @@
 						"is_show": true
 					}
 				]
-			}
+			
 	
-		]
+		
 	}
 ]
