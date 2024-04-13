@@ -46,7 +46,15 @@
 	"pendant": {
 		"is_show": true,
 		"list": [
-			
+			{
+				"icon_class": "fas fa-comment-dots",
+				"icon_size": 20,
+				"icon_color": "#0088cc",
+				"icon_hover_color": "#085b85",
+				"text": "期待您的建议反馈",
+				"img": "",
+				"url": "https://support.qq.com/product/645515"
+			}
 		]
 	},
 	"footer": {
