@@ -3420,81 +3420,209 @@
 						"is_show": true
 					}
 				]
-			},
+			}
+	
+		]
+	},
+	{
+		"group_name": "友情链接",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
 			{
-				"group_name": "友情链接",
-				"style": 1,
-				"style_des": "标准风格",
-				"tab_list": [
+				
+				"details": [
 					{
+						"title": "扫大便",
+						"url": "https://poopsweeper-game.firebaseapp.com/",
 						
-						"tab_name": "友链①",
-						"details": [
-							{
-								"title": "第一百度学术导航",
-								"url": "https://xn--2fkfulionedizhi-at-gmail-com-1r98b956ckrlrz88b.kdiyi.com/?zq",
-								
-								
-								"suffix": true,
-								"is_show": true
-							},
-							{
-								"title": "webtoon",
-								"url": "https://www.webtoon.xyz/",
-								"icon": "https://api.iowen.cn/favicon/www.webtoon.xyz.png",
-								"description": "成人漫画",
-								"suffix": true,
-								"is_show": true
-							},
-							{
-								"title": "ASMR盒子",
-								"url": "https://asmrbox.xyz/",
-								"icon": "https://toolb.cn/favicon/asmrbox.xyz",
-								"description": "免费海量高品质的ASMR视频音频资源。",
-								"suffix": true,
-								"is_show": true
-							},
-							{
-								"title": "随机小姐姐",
-								"url": "https://diskgirl.com/",
-								"icon": "https://toolb.cn/favicon/diskgirl.com",
-								"description": "随机播放小姐姐",
-								"suffix": true,
-								"is_show": true
-							},
-							{
-								"title": "ASMR助眠",
-								"url": "https://www.asmrpp.com/",
-								"icon": "https://toolb.cn/favicon/www.asmrpp.com",
-								"description": "ASMR视频音频分享网站",
-								"suffix": true,
-								"is_show": true
-							},
-							{
-								"title": "顶级国产",
-								"url": "https://qoqavideo4t.click/aovaov",
-								"icon": "https://toolb.cn/favicon/qoqavideo4t.click",
-								"description": "未成年止步",
-								"suffix": true,
-								"is_show": true
-							},
-							{
-								"title": "AV集市",
-								"url": "https://tmt.avjishi76.cc/go/?form=https://soupian.pro/#zaixianshipin",
-								"icon": "https://toolb.cn/favicon/tmt.avjishi76.cc",
-								"description": "未成年止步",
-								"suffix": true,
-								"is_show": true
-							},
-							{
-								"title": "唐诗宋词",
-								"url": "https://xn--ces6a.dizhi787.cc/12/%E5%90%91%E5%96%84/index.html",
-								"icon": "https://s21.ax1x.com/2024/04/13/pFjT2u9.png",
-								"description": "未成年止步",
-								"suffix": true,
-								"is_show": true
-							}
-						]
+						
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Sakana!",
+						"url": "https://lab.magiconch.com/sakana/",
+						"icon": "https://toolb.cn/favicon/lab.magiconch.com",
+						"description": "石蒜虚拟器",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "逼死前端狗",
+						"url": "https://sojo.im/",
+						"icon": "https://toolb.cn/favicon/sojo.im",
+						"description": "前端狗慎进",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "斜着看生成器",
+						"url": "https://lab.magiconch.com/xzk/",
+						"icon": "https://toolb.cn/favicon/lab.magiconch.com",
+						"description": "自定义文字生成斜着看图片",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "绘名唱调",
+						"url": "https://enazo.cn/ena-midi/",
+						"icon": "https://toolb.cn/favicon/enazo.cn",
+						"description": "小狐狸数字唱调键盘",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "动画巡礼",
+						"url": "https://anitabi.cn/map",
+						"icon": "https://s21.ax1x.com/2024/04/13/pFjTSX9.png",
+						"description": "方便查看 动画、漫画、电影、电视剧 圣地 地标与截图 的在线地图",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Life Restart",
+						"url": "https://liferestart.syaro.io/public/index.html",
+						"icon": "https://api.iowen.cn/favicon/liferestart.syaro.io.png",
+						"description": "人生重开模拟器",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "TypeRacer",
+						"url": "https://play.typeracer.com/",
+						"icon": "https://toolb.cn/favicon/play.typeracer.com",
+						"description": "打字比赛",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Noise Generator",
+						"url": "https://29a.ch/noise-generator/",
+						"icon": "https://toolb.cn/favicon/29a.ch",
+						"description": "噪音生成器",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "极光",
+						"url": "https://www.drawaurora.com/",
+						"icon": "https://api.iowen.cn/favicon/www.drawaurora.com.png",
+						"description": "极光模拟",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "头像制作",
+						"url": "https://neal.fun/life-stats/",
+						"icon": "https://api.iowen.cn/favicon/neal.fun.png",
+						"description": "头像制作器",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "在线涂鸦",
+						"url": "https://flipanim.com/",
+						"icon": "https://toolb.cn/favicon/flipanim.com",
+						"description": "Create flipbook animations online!",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "AnimeShot",
+						"url": "https://as2.bitinn.net/",
+						"icon": "https://s21.ax1x.com/2024/04/13/pFjTSX9.png",
+						"description": "把动画字幕用于吐槽生活",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "核弹威力",
+						"url": "https://nuclearsecrecy.com/nukemap/",
+						"icon": "https://api.iowen.cn/favicon/nuclearsecrecy.com.png",
+						"description": "模拟核弹的威力",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "FFFFidget",
+						"url": "https://ffffidget.com/",
+						"icon": "https://api.iowen.cn/favicon/ffffidget.com.png",
+						"description": "指尖陀螺",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "CAT BOUNCE!",
+						"url": "https://cat-bounce.com/",
+						"icon": "https://api.iowen.cn/favicon/cat-bounce.com.png",
+						"description": "弹跳的猫",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "大便分析",
+						"url": "https://stoolanalyzer.com/",
+						"icon": "https://api.iowen.cn/favicon/stoolanalyzer.com.png",
+						"description": "从便便看出你的健康",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Fold&amp",
+						"url": "https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2",
+						"icon": "https://api.iowen.cn/favicon/www.foldnfly.com.png",
+						"description": "教你折飞机",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "听雨声",
+						"url": "https://rainyscope.com/",
+						"icon": "https://api.iowen.cn/favicon/rainyscope.com.png",
+						"description": "模拟雨声",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "弹力球",
+						"url": "https://bouncyballs.org/",
+						"icon": "https://api.iowen.cn/favicon/bouncyballs.org.png",
+						"description": "用弹力球控制教室噪音",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "10万颗星星",
+						"url": "https://stars.chromeexperiments.com/",
+						"icon": "https://api.iowen.cn/favicon/stars.chromeexperiments.com.png",
+						"description": "3D动态效果",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Find the Invisible Cow",
+						"url": "https://findtheinvisiblecow.com/",
+						"icon": "https://api.iowen.cn/favicon/findtheinvisiblecow.com.png",
+						"description": "找到隐藏的牛",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "种草",
+						"url": "https://drawing.garden/",
+						"icon": "https://s21.ax1x.com/2024/04/13/pFjTSX9.png",
+						"description": "滑动鼠标进行种植",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Keep Screen On",
+						"url": "https://www.keepscreenon.com/",
+						"icon": "https://api.iowen.cn/favicon/www.keepscreenon.com.png",
+						"description": "让屏幕保持常亮",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			}
