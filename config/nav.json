@@ -1486,7 +1486,7 @@
 						"is_show": true
 					},
 					{
-						"title": "m3u8下载",
+						"title": "小纸条",
 						"ori_url": "https://ali.gitcafe.ink/",
 						"url": "https://ali.gitcafe.ink/",
 						"icon": "https://s21.ax1x.com/2024/04/13/pFjTSX9.png",
@@ -1545,6 +1545,42 @@
 						"url": "https://ywyj.cn/",
 						"icon": "https://toolb.cn/favicon/ywyj.cn",
 						"description": "B站UP一网一匠创建的产品发现社区，旨在打造一个服务于产品创造者和爱好者分享和交流社区",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "FreePD",
+						"ori_url": "https://freepd.com/",
+						"url": "https://freepd.com/",
+						"icon": "https://toolb.cn/favicon/freepd.com",
+						"description": "一个免费音效下载网站",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "淘声网",
+						"ori_url": "https://www.tosound.com/",
+						"url": "https://www.tosound.com/",
+						"icon": "https://toolb.cn/favicon/www.tosound.com",
+						"description": "全球免费声音素材聚合平台",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "耳聆网",
+						"ori_url": "https://www.ear0.com/",
+						"url": "https://www.ear0.com/",
+						"icon": "https://toolb.cn/favicon/www.ear0.com",
+						"description": "专业的声音分享平台",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "小森平",
+						"ori_url": "https://www.ear0.com/",
+						"url": "https://www.ear0.com/",
+						"icon": "https://toolb.cn/favicon/taira-komori.jpn.org",
+						"description": "免费下载音效",
 						"suffix": false,
 						"is_show": false
 					}
@@ -2159,6 +2195,22 @@
 				"upper_right_corner": {},
 				"details": [
 					{
+						"title": "软仓",
+						"url": "https://www.itrmb.com/",
+						"icon": "https://toolb.cn/favicon/www.ruancang.net",
+						"description": "软仓是一个集合专业软件的导航网站，免费下载供学习使用，本站承诺无毒无广告，纯公益项目，不以此盈利",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "数字人民币",
+						"url": "https://www.itrmb.com/",
+						"icon": "https://toolb.cn/favicon/www.itrmb.com",
+						"description": "免费下载绿色软件APP 无会员 不收费！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
 						"title": "苹果专区",
 						"url": "https://www.fre123.com/#软件工具_苹果专区",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6b6e043b45.ico",
@@ -2332,6 +2384,14 @@
 				"tab_name": "苹果专区",
 				"upper_right_corner": {},
 				"details": [
+					{
+						"title": "元婴MAC软件站",
+						"url": "https://maczz.net/",
+						"icon": "https://toolb.cn/favicon/maczz.net",
+						"description": "严格的Mac破解软件下载网站",
+						"suffix": false,
+						"is_show": true
+					},
 					{
 						"title": "MacWk",
 						"url": "https://macwk.cn/",
