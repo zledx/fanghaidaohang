@@ -2,7 +2,7 @@
 	<footer class="text-left text-[#6c757d] p-6 bg-[rgba(248,249,250,1)] h-[70px]">
 	
 		<section class="flex justify-center">
-		<div class="text-[14px] h-[30px]">
+		
 				<span
 					>友情链接： 
 					
@@ -14,7 +14,7 @@
 					>
 				</span>
 				
-			</div><p></p>
+			<p></p>
 			<!-- Left -->
 			<div class="text-[14px] h-[30px]">
 				<span
