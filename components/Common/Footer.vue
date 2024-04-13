@@ -1,6 +1,7 @@
 <template>
-<p>友情链接：</p>
+
 	<footer class="text-left text-[#6c757d] p-6 bg-[rgba(248,249,250,1)] h-[70px]">
+	<p>友情链接：</p>
 		<section class="flex justify-center">
 			<!-- Left -->
 			<div class="text-[14px] h-[30px]">
