@@ -1591,45 +1591,69 @@
 				"tab_name": "福利资源",
 				"details": [
 					{
-						"title": "马克配音",
-						"url": "https://ttsmaker.cn/",
-						"icon": "https://toolb.cn/favicon/ttsmaker.cn",
-						"description": "免费的AI配音平台",
+						"title": "第一百度学术导航",
+						"url": "https://xn--2fkfulionedizhi-at-gmail-com-1r98b956ckrlrz88b.kdiyi.com/?zq",
+						"icon": "https://toolb.cn/favicon/xn--2fkfulionedizhi-at-gmail-com-1r98b956ckrlrz88b.kdiyi.com",
+						"description": "就是你想的",
 						"suffix": true,
 						"is_show": true
 					},
 					{
-						"title": "AIchatOS",
-						"url": "https://chat18.aichatos.xyz/",
-						"icon": "https://s21.ax1x.com/2024/04/12/pFjQKOO.png",
-						"description": "免费GPT3.5",
+						"title": "webtoon",
+						"url": "https://www.webtoon.xyz/",
+						"icon": "https://s21.ax1x.com/2024/04/13/pFjT2u9.png",
+						"description": "成人漫画",
 						"suffix": true,
 						"is_show": true
 					},
 					{
-						"title": "iconfont",
-						"url": "https://www.iconfont.cn/",
-						"icon": "https://toolb.cn/favicon/www.iconfont.cn",
-						"description": "国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具",
+						"title": "ASMR盒子",
+						"url": "https://asmrbox.xyz/",
+						"icon": "https://toolb.cn/favicon/asmrbox.xyz",
+						"description": "免费海量高品质的ASMR视频音频资源。",
 						"suffix": true,
 						"is_show": true
 					},
 					{
-						"title": "Emoji大全",
-						"url": "https://www.emojiall.com/zh-hans",
-						"icon": "https://toolb.cn/favicon/www.emojiall.com",
-						"description": "该网站提供了最新、完整的Emoji搜索和相关信息，包括表情符号含义、使用示例、Unicode代码点、高分辨率图片、复制和粘贴，以及Emoji大数据排名、矢量图形和动态图表、智能算法情感分析和表情符号语言学研究。",
+						"title": "随机小姐姐",
+						"url": "https://diskgirl.com/",
+						"icon": "https://toolb.cn/favicon/diskgirl.com",
+						"description": "随机播放小姐姐",
 						"suffix": true,
 						"is_show": true
 					},
 					{
-						"title": "阿里云服务器",
-						"url": "https://www.aliyun.com/",
-						"icon": "https://toolb.cn/favicon/www.aliyun.com",
-						"description": "为了无法计算的价值",
+						"title": "ASMR助眠",
+						"url": "https://www.asmrpp.com/",
+						"icon": "https://toolb.cn/favicon/www.asmrpp.com",
+						"description": "ASMR视频音频分享网站",
 						"suffix": true,
 						"is_show": true
-					}
+					},
+					{
+						"title": "顶级国产",
+						"url": "https://qoqavideo4t.click/aovaov",
+						"icon": "https://toolb.cn/favicon/qoqavideo4t.click",
+						"description": "未成年止步",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "AV集市",
+						"url": "https://tmt.avjishi76.cc/go/?form=https://soupian.pro/#zaixianshipin",
+						"icon": "https://toolb.cn/favicon/tmt.avjishi76.cc",
+						"description": "未成年止步",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "唐诗宋词",
+						"url": "https://xn--ces6a.dizhi787.cc/12/%E5%90%91%E5%96%84/index.html",
+						"icon": "https://s21.ax1x.com/2024/04/13/pFjT2u9.png",
+						"description": "未成年止步",
+						"suffix": true,
+						"is_show": true
+					},
 
 				]
 			}
