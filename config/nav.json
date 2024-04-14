@@ -3452,6 +3452,14 @@
 				},
 				"details": [
 					{
+						"title": "下次一定",
+						"url": "https://www.iiice.cn/",
+						"icon": "https://api.iowen.cn/favicon/www.iiice.cn.png",
+						"description": "导航网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
 						"title": "星书签导航",
 						"url": "https://www.star8.cn",
 						"icon": "https://www.star8.cn/img/ico.png",
