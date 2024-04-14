@@ -134,6 +134,14 @@
 				"tab_name": "图片处理",
 				"details": [
 					{
+						"title": "风筝图床",
+						"url": "https://imgbed.link/",
+						"icon": "https://imgbed.link/favicon.ico",
+						"description": "图床外链生成器",
+						"suffix": true,
+						"is_show": true
+					},
+					{
 						"title": "screenzy",
 						"url": "https://screenzy.io/",
 						"icon": "https://screenzy.io/apple-touch-icon.png",
