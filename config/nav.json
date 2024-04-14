@@ -1555,7 +1555,7 @@
 						"icon": "https://toolb.cn/favicon/ywyj.cn",
 						"description": "B站UP一网一匠创建的产品发现社区，旨在打造一个服务于产品创造者和爱好者分享和交流社区",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "FreePD",
@@ -1564,7 +1564,7 @@
 						"icon": "https://toolb.cn/favicon/freepd.com",
 						"description": "一个免费音效下载网站",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "淘声网",
@@ -1573,7 +1573,7 @@
 						"icon": "https://toolb.cn/favicon/www.tosound.com",
 						"description": "全球免费声音素材聚合平台",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "耳聆网",
@@ -1582,7 +1582,7 @@
 						"icon": "https://toolb.cn/favicon/www.ear0.com",
 						"description": "专业的声音分享平台",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "小森平",
@@ -1591,7 +1591,7 @@
 						"icon": "https://toolb.cn/favicon/taira-komori.jpn.org",
 						"description": "免费下载音效",
 						"suffix": false,
-						"is_show": false
+						"is_show": true
 					}
 				]
 			},
