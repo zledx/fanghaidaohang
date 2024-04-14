@@ -1,13 +1,34 @@
 
 
 <template>
+    <style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+    .footer {
+        background-color: #f0f0f0;
+        padding: 20px;
+        text-align: left; /* 文本左对齐 */
+    }
+    .footer a {
+        color: #333;
+        text-decoration: none;
+        font-size: 12px;
+    }
+</style>
+
+
+<footer class="footer">
     <p>友情链接：</p>
+    <div>
         <a href="#">友情链接1</a>
         <span> | </span>
         <a href="#">友情链接2</a>
         <span> | </span>
         <a href="#">友情链接3</a>
         <!-- 添加更多友情链接 -->
+    </div>
+</footer>
 	<footer class="text-left text-[#6c757d] p-6 bg-[rgba(248,249,250,1)] h-[70px]">
 	
 		<section class="flex justify-center">
