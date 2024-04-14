@@ -143,6 +143,14 @@
 				"tab_name": "图片处理",
 				"details": [
 					{
+						"title": "screenzy",
+						"url": "https://screenzy.io/",
+						"icon": "https://api.iowen.cn/favicon/screenzy.io.png",
+						"description": "截图美化",
+						"suffix": true,
+						"is_show": true
+					},
+					{
 						"title": "favicon获取api",
 						"ori_url": "https://magiconch.com/vaporwave/",
 						"url": "https://api.iowen.cn/favicon/%E5%9F%9F%E5%90%8D.png",
@@ -247,6 +255,14 @@
 				
 				"tab_name": "常用站点",
 				"details": [
+					{
+						"title": "16Personalities",
+						"url": "https://www.16personalities.com/ch/",
+						"icon": "https://api.iowen.cn/favicon/www.16personalities.com.png",
+						"description": "免费性格测试",
+						"suffix": true,
+						"is_show": true
+					},
 					{
 						"title": "马克配音",
 						"url": "https://ttsmaker.cn/",
