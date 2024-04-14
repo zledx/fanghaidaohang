@@ -365,6 +365,14 @@
 						"description": "🧧先领券 再打车 超省钱首单立减10元 最高领100元券包🔥",
 						"suffix": true,
 						"is_show": true
+					},
+					{
+						"title": "✅话费充值91折",
+						"url": "https://fqqypemxcg.kuaizhan.com/?99rnrRSb",
+						"icon": "https://link.imgbed.link/file/57838",
+						"description": "🔥话费充值，低至91折戳👉",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			}
