@@ -41,17 +41,8 @@
 						"title": "去水印",
 						"ori_url": "https://shejishow.cn/remove/",
 						"url": "https://shejishow.cn/remove/",
-						"icon": "https://api.iowen.cn/favicon/shejishow.cn.png",
+						"icon": "https://shejishow.cn/wp-content/uploads/2022/05/1652444552-24e5a156e53bde6.png",
 						"description": "全网免费去水印 ",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "下载器",
-						"ori_url": "https://aixdownloader.com/",
-						"url": "https://aixdownloader.com/",
-						"icon": "https://toolb.cn/favicon/aixdownloader.com",
-						"description": "从任何网页下载你想要的内容",
 						"suffix": false,
 						"is_show": true
 					},
@@ -59,7 +50,7 @@
 						"title": "HQ ICON",
 						"ori_url": "https://icon.yukonga.top/",
 						"url": "https://icon.yukonga.top/",
-						"icon": "https://api.iowen.cn/favicon/icon.yukonga.top.png",
+						"icon": "https://icon.yukonga.top/favicon.ico",
 						"description": "从 App Store 获取高清应用图标",
 						"suffix": false,
 						"is_show": true
@@ -145,7 +136,7 @@
 					{
 						"title": "screenzy",
 						"url": "https://screenzy.io/",
-						"icon": "https://api.iowen.cn/favicon/screenzy.io.png",
+						"icon": "https://screenzy.io/apple-touch-icon.png",
 						"description": "截图美化",
 						"suffix": true,
 						"is_show": true
@@ -258,7 +249,7 @@
 					{
 						"title": "16Personalities",
 						"url": "https://www.16personalities.com/ch/",
-						"icon": "https://api.iowen.cn/favicon/www.16personalities.com.png",
+						"icon": "https://www.16personalities.com/static/images/favicons/favicon-96x96.png",
 						"description": "免费性格测试",
 						"suffix": true,
 						"is_show": true
@@ -1505,7 +1496,7 @@
 						"title": "图欧学习库",
 						"ori_url": "https://tuostudy.com/",
 						"url": "https://tuostudy.com/",
-						"icon": "https://api.iowen.cn/favicon/link3.cc.png",
+						"icon": "https://link3.cc/favicon.ico",
 						"description": "上万款学习相关网盘资源免费无偿分享",
 						"suffix": false,
 						"is_show": true
@@ -1523,7 +1514,7 @@
 						"title": "张洪Heo",
 						"ori_url": "https://blog.zhheo.com/",
 						"url": "https://blog.zhheo.com/",
-						"icon": "https://api.iowen.cn/favicon/blog.zhheo.com.png",
+						"icon": "https://s21.ax1x.com/2024/04/14/pFvZiff.png",
 						"description": "产品设计师、独立开发者、设计与科技领域自媒体博主",
 						"suffix": false,
 						"is_show": true
@@ -1550,7 +1541,7 @@
 						"title": "奶酪清单",
 						"ori_url": "https://www.runningcheese.cn/",
 						"url": "https://www.runningcheese.cn/",
-						"icon": "https://api.iowen.cn/favicon/www.runningcheese.cn.png",
+						"icon": "https://s21.ax1x.com/2024/04/14/pFvZQhV.png",
 						"description": "聚合多个资源内容的清单，包含人工只能/网站软件分享、技巧分享等等",
 						"suffix": false,
 						"is_show": true
@@ -1559,7 +1550,7 @@
 						"title": "LKs",
 						"ori_url": "https://lkssite.vip/",
 						"url": "https://lkssite.vip/",
-						"icon": "https://api.iowen.cn/favicon/lkssite.vip.png",
+						"icon": "https://lkssite.vip/favicon.ico",
 						"description": "B站UOLKs发起的良心到难以置信的网站推荐",
 						"suffix": false,
 						"is_show": true
@@ -1613,7 +1604,7 @@
 			},
 			{
 				
-				"tab_name": "福利资源",
+				"tab_name": "福利站点",
 				"details": [
 					{
 						"title": "第一百度学术导航",
@@ -1626,7 +1617,7 @@
 					{
 						"title": "webtoon",
 						"url": "https://www.webtoon.xyz/",
-						"icon": "https://api.iowen.cn/favicon/www.webtoon.xyz.png",
+						"icon": "https://s21.ax1x.com/2024/04/14/pFvZaA1.png",
 						"description": "成人漫画",
 						"suffix": true,
 						"is_show": true
