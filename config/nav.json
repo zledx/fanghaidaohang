@@ -3428,12 +3428,7 @@
 		"group_name": "友情链接",
 		"style": 1,
 		"style_des": "标准风格",
-		"tab_list": [
-			{
-				"tab_name": "友情链接1️⃣",
-				"upper_right_corner": {
-					
-				},
+		
 				"details": [
 					{
 						"title": "申请友链",
@@ -3444,8 +3439,8 @@
 						"is_show": true
 					}
 				]
-			}
+			
 	
-		]
+		
 	}
 ]
