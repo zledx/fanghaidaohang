@@ -255,6 +255,22 @@
 				"tab_name": "常用站点",
 				"details": [
 					{
+						"title": "热铁盒",
+						"url": "https://host.retiehe.com/",
+						"icon": "https://link.imgbed.link/file/57830",
+						"description": "网页托管",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "青柠起始页",
+						"url": "https://limestart.cn/",
+						"icon": "https://link.imgbed.link/file/57828",
+						"description": "风格简美的起始页",
+						"suffix": true,
+						"is_show": true
+					},
+					{
 						"title": "16Personalities",
 						"url": "https://www.16personalities.com/ch/",
 						"icon": "https://www.16personalities.com/static/images/favicons/favicon-96x96.png",
