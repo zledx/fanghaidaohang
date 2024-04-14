@@ -354,7 +354,15 @@
 						"title": "🚗滴滴优惠打车",
 						"url": "https://v.didi.cn/P8jB2vX?source_id=0EwpYhZU6",
 						"icon": "https://link.imgbed.link/file/57833",
-						"description": "打车低至6折最高领140元券包限时抢🧧",
+						"description": "🔥打车低至6折最高领140元券包限时抢🧧",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "🚗花小猪优惠打车",
+						"url": "https://x.huaxz.cn/KWA2o7p?source_id=0EwpYhZU6",
+						"icon": "https://link.imgbed.link/file/57836",
+						"description": "🧧先领券 再打车 超省钱首单立减10元 最高领100元券包🔥",
 						"suffix": true,
 						"is_show": true
 					}
