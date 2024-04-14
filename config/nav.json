@@ -3445,7 +3445,7 @@
 					{
 						"title": "下次一定",
 						"url": "https://www.iiice.cn/",
-						"icon": "https://api.iowen.cn/favicon/www.iiice.cn.png",
+						"icon": "https://www.iiice.cn/favicon.ico",
 						"description": "导航网站",
 						"suffix": true,
 						"is_show": true
