@@ -324,6 +324,46 @@
 		]
 	},
 	{
+		"group_name": "省钱助手",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "",
+				"upper_right_corner": {
+					
+				},
+				"details": [
+					{
+						"title": "🔥美团外卖红包",
+						"url": "http://dpurl.cn/RFKtoudz",
+						"icon": "https://link.imgbed.link/file/57831",
+						"description": "🔥最高可领66元大红包🧧",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "🔥饿了么红包",
+						"url": "https://www.star8.cn",
+						"icon": "https://link.imgbed.link/file/57832",
+						"description": "🔥最高领66元大额红包🧧",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "🚗滴滴优惠打车",
+						"url": "https://v.didi.cn/P8jB2vX?source_id=0EwpYhZU6",
+						"icon": "https://link.imgbed.link/file/57833",
+						"description": "打车低至6折最高领140元券包限时抢🧧",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			}
+	
+		]
+	},
+	{
 		"group_name": "影视资源",
 		"style": 1,
 		"style_des": "标准风格",
