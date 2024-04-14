@@ -3452,6 +3452,14 @@
 				},
 				"details": [
 					{
+						"title": "星书签导航",
+						"url": "https://www.star8.cn",
+						"icon": "https://www.star8.cn/img/ico.png",
+						"description": "打开舒适旅程，畅享资源之旅",
+						"suffix": true,
+						"is_show": true
+					}
+					{
 						"title": "申请友链",
 						"url": "#",
 						"icon": "https://s21.ax1x.com/2024/04/13/pFjTSX9.png",
