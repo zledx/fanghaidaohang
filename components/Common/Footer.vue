@@ -1,13 +1,11 @@
 
     <p>友情链接：</p>
-    <div>
         <a href="#">友情链接1</a>
         <span> | </span>
         <a href="#">友情链接2</a>
         <span> | </span>
         <a href="#">友情链接3</a>
         <!-- 添加更多友情链接 -->
-    </div>
 <template>
 	<footer class="text-left text-[#6c757d] p-6 bg-[rgba(248,249,250,1)] h-[70px]">
 	
